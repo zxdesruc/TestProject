@@ -11,7 +11,6 @@ import java.util.List;
 public class ExtendedList {
 
     private final List<String> list = new ArrayList<>();
-int cocks;
     private boolean isLimited;
     private int maxSize;
     private int firstStringIndex;
